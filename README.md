@@ -12,7 +12,7 @@ This project is an mbed-based application that generates digital pulses and blin
 - [License](#license)
 
 ## Project Structure
--   PulseGenerator/
+-  PulseGenerator/
                 ├── main.cpp
                 ├── PulseGenerator.cpp
                 ├── PulseGenerator.h
